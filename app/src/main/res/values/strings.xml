@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Homework 13 Animations</string>
+    <string name="lorem_ipsum">fragment string</string>
+    <string name="red">red</string>
+    <string name="blue">blue</string>
+    <string name="orange">orange</string>
+</resources>
